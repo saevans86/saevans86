@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam Evans
 - 👀 I’m interested in video games, coding, the gym, and animals!
-- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT. 
+- 🌱 I’m currently learning anything I can! 
 - 💞️ I’m looking to collaborate on ... I'm still very new to coding, and really just working on practicing and honing my skills as much as possible!
 - 📫 How to reach me ... You can contact me here, I am here often! :)
 
